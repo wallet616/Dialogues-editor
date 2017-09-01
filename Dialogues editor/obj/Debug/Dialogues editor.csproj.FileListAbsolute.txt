@@ -1,0 +1,22 @@
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.exe.config
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.exe
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.pdb
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues_editor.Properties.Resources.resources
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.csproj.GenerateResource.Cache
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.exe
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.pdb
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues_editor.Form1.resources
+D:\C#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.exe.config
+D:\C#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.exe
+D:\C#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.pdb
+D:\C#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.exe
+D:\C#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.pdb
+D:\C#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.csprojResolveAssemblyReference.cache
+D:\C#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues_editor.Form1.resources
+D:\C#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues_editor.Properties.Resources.resources
+D:\C#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.csproj.GenerateResource.Cache
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.exe.manifest
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Debug\Dialogues editor.application
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.exe.manifest
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.application
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Debug\Dialogues editor.csprojResolveAssemblyReference.cache

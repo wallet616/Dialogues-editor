@@ -1,0 +1,12 @@
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Release\Dialogues editor.exe.config
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Release\Dialogues editor.exe.manifest
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Release\Dialogues editor.application
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Release\Dialogues editor.exe
+E:\Workspace\c#\Dialogues editor\Dialogues editor\bin\Release\Dialogues editor.pdb
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Release\Dialogues_editor.Form1.resources
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Release\Dialogues_editor.Properties.Resources.resources
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Release\Dialogues editor.csproj.GenerateResource.Cache
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Release\Dialogues editor.exe.manifest
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Release\Dialogues editor.application
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Release\Dialogues editor.exe
+E:\Workspace\c#\Dialogues editor\Dialogues editor\obj\Release\Dialogues editor.pdb
